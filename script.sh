@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-rm fol_1
-rm fol_2
+rm -r fol_1
+rm -r fol_2
 mkdir fol_1
 mkdir fol_2
 touch fol_1/1_1.txt
